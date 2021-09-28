@@ -43,6 +43,7 @@ this course to create a Kafka server to produce data, and ingest data through Sp
  
 
 ### Output
+
  
 Step 3
 Question 1
